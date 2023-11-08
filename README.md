@@ -27,8 +27,8 @@ Development Cycle ([Wikipedia](https://en.wikipedia.org/wiki/Test-driven_develop
 _*Commit often and undo / revert new code which fails any tests, rather than debugging excessively._
 
 
-Additional Steps ([Jitterted](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/))
-----------------
+Improved Cycle ([Jitterted](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/))
+--------------
 
 01. What should it do? (verbalize the goal; be clear & precise)
 02. How will you know it did it? (expected outcome; observable)
