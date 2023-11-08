@@ -3,7 +3,7 @@
 Three Laws of TDD ([Uncle Bob <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U))
 -----------------
 
-* _**Rule 1:**_ You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
+* _**Rule 1:**_ You are not allowed to write any production code unless it is to make a failing test pass.
 * _**Rule 2:**_ You are not allowed to write anymore of a unit test than is sufficient to fail; and compilation failures are failures.
 * _**Rule 3:**_ You are not allowed to write anymore production code than is sufficient to pass the one failing unit test.
 
