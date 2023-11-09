@@ -1,4 +1,6 @@
-# Test-Driven Development
+Test-Driven Development
+=======================
+
 
 Three Laws of TDD ([Uncle Bob <img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U))
 -----------------
@@ -43,3 +45,9 @@ Improved Cycle ([Jitterted](https://ted.dev/articles/2021/03/05/clarifying-the-g
 11. Run test.
 12. (Passes!)
 
+
+More Info
+---------
+
+* [Focus on Branch Logic](https://www.geepawhill.org/2019/02/18/pro-tip-tdd-focus-on-our-branching-logic/) - GeePaw
+* Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
