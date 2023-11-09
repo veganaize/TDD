@@ -50,4 +50,4 @@ More Info
 ---------
 
 * [Focus on Branch Logic](https://www.geepawhill.org/2019/02/18/pro-tip-tdd-focus-on-our-branching-logic/) - GeePaw
-* Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
+* Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://wiki.python.org/moin/UsingAssertionsEffectively)
