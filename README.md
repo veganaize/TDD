@@ -53,3 +53,37 @@ More Info
 * [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
 * [Focus on Branch Logic](https://www.geepawhill.org/2019/02/18/pro-tip-tdd-focus-on-our-branching-logic/) - GeePaw
 * Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://wiki.python.org/moin/UsingAssertionsEffectively)
+
+
+Version Control
+---------------
+
+[Git](https://git-scm.com/docs/gittutorial)
+
+```
+git init .
+git add .
+git status
+git commit -m "Commit message"
+git log [--oneline] [--author=name]
+git tag 1.0.0 <commit-id-from-log>
+
+git restore --staged <file>
+git restore <file>
+git reset --hard
+
+git stash
+git stash pop
+
+git checkout -b <new_feature_branch_name>
+git diff [--cached]
+git checkout <master | main>
+git merge --squash <new_feature_branch_name>
+git branch --delete <new_feature_branch_name>
+
+git clone [--no-single-branch] git@github.com:veganaiZe/TDD.git
+git clone [--depth=50] https://github.com/veganaiZe/TDD.git
+git remote add origin <original_upsteam_repo_server>
+git pull --rebase
+git push
+```
