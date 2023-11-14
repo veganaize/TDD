@@ -78,6 +78,7 @@ git stash pop
 git checkout -b <new_feature_branch_name>
 git diff [--cached]
 git checkout <master | main>
+git branch
 git merge --squash <new_feature_branch_name>
 git branch --delete <new_feature_branch_name>
 
