@@ -12,9 +12,13 @@ Test-Driven Development
 
 1. Write a list of the test scenarios you want to cover.
 2. Turn exactly one item on the list into an actual, concrete, runnable test.
-3. Change the code to make the test (& all previous tests) pass (adding items to the list as you discover them).
-4. Optionally refactor to improve the implementation design.
-5. Until the list is empty, go back to #2.
+   - 3A (Bill Wake):
+     1. _Arrange:_ Create some objects.
+     2. _Act:_ Stimulate them.
+     3. _Assert:_ Check the results.
+4. Change the code to make the test (& all previous tests) pass (adding items to the list as you discover them).
+5. Optionally refactor to improve the implementation design.
+6. Until the list is empty, go back to #2.
 
 
 [Three Laws of TDD](http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U) (Uncle Bob )
