@@ -2,6 +2,21 @@ Test-Driven Development
 =======================
 
 
+Canonical TDD ([Kent Beck](https://tidyfirst.substack.com/p/canon-tdd))
+-------------
+
+* Everything that used to work still works.
+* The new behavior works as expected.
+* The system is ready for the next change.
+* The programmer & their colleagues feel confident in the above points.
+
+1. Write a list of the test scenarios you want to cover.
+2. Turn exactly one item on the list into an actual, concrete, runnable test.
+3. Change the code to make the test (& all previous tests) pass (adding items to the list as you discover them).
+4. Optionally refactor to improve the implementation design.
+5. Until the list is empty, go back to #2.
+
+
 Three Laws of TDD (Uncle Bob [📄](http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U))
 -----------------
 
@@ -10,7 +25,7 @@ Three Laws of TDD (Uncle Bob [📄](http://www.butunclebob.com/ArticleS.UncleBob
 * _**Rule 3:**_ You are not allowed to write anymore production code than is sufficient to pass the one failing unit test.
 
 
-Development Cycle ([Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle) / Kent Beck)
+Development Cycle ([Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle))
 -----------------
 
 01. **Add a small / incremental test** for a new feature by discovering specifications from user stories / use cases / requirements.
