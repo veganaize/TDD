@@ -66,6 +66,7 @@ More Info
 
 * [Use Cases are Essential](https://dl.acm.org/doi/pdf/10.1145/3631182) - Ivar Jacobson & Alistair Cockburn
 * [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
+* [XP Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
 * [Focus on Branch Logic](https://www.geepawhill.org/2019/02/18/pro-tip-tdd-focus-on-our-branching-logic/) - GeePaw
 * Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://wiki.python.org/moin/UsingAssertionsEffectively)
 
