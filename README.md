@@ -12,10 +12,13 @@ Test-Driven Development
 
 1. Write a list of the test scenarios you want to cover.
 2. Turn exactly one item on the list into an actual, concrete, runnable test.
-   - 3A (Bill Wake):
-     1. _Arrange:_ Create some objects.
-     2. _Act:_ Stimulate them.
-     3. _Assert:_ Check the results.
+   - **3A** (Bill Wake):
+     |    |           |                      |
+     |:--:|-----------|----------------------|
+     | 1. | _Arrange_ | Create some objects. |
+     | 2. | _Act_     | Stimulate them.      |
+     | 3. | _Assert_  | Check the results.   |
+     
 4. Change the code to make the test (& all previous tests) pass (adding items to the list as you discover them).
 5. Optionally refactor to improve the implementation design.
 6. Until the list is empty, go back to #2.
