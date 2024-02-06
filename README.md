@@ -37,15 +37,15 @@ Test-Driven Development
 [Development Cycle](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle) (Wikipedia)
 -------------------
 
-01. **Add a small / incremental test** for a new feature by discovering specifications from user stories / use cases / requirements.
+01. **Add a small / incremental test** for a new feature by discovering specifications from [user stories](https://en.wikipedia.org/wiki/User_story) / [use cases](https://en.wikipedia.org/wiki/Use_case) / [requirements](https://en.wikipedia.org/wiki/Requirement).
 02. **Run all tests** to verify the new test actually fails, for expected reasons, and that new code is actually needed.
 03. **Write the simplest code that passes the new test** and nothing more, even if it's inelegant or hard coded.
-04. **All tests should now pass** or else revise the new code, until they do, to ensure new code meets test's requirements and doesn't cause regressions (ie. break existing features).
-05. **Refactor, for readablility / maintainability, while running tests to ensure functionality is preserved**
+04. **All tests should now pass** or else revise the new code, until they do, to ensure new code meets test's requirements and doesn't cause [regressions](https://en.wikipedia.org/wiki/Software_regression) (ie. break existing features).
+05. **[Refactor](https://en.wikipedia.org/wiki/Code_refactoring), for readablility / maintainability, while running tests to ensure functionality is preserved**
     - Move code to where it logically belongs.
-    - Remove hard-coded test data.
-    - Remove duplicate code.
-    - Make names self-documenting.
+    - Remove [hard-coded](https://en.wikipedia.org/wiki/Hard_coding) test data.
+    - Remove [duplicate code](https://en.wikipedia.org/wiki/Duplicate_code).
+    - Make names [self-documenting](https://en.wikipedia.org/wiki/Self-documenting_code).
     - Split methods into smaller pieces.
     - Re-arrange inheritance hierarchies.
 06. **Repeat** cycle for each new piece of functionality.
