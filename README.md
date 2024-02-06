@@ -5,11 +5,13 @@ Test-Driven Development
 [Canonical TDD](https://tidyfirst.substack.com/p/canon-tdd) (Kent Beck)
 ---------------
 
+**OBJECTIVES:**
 * Everything that used to work still works.
 * The new behavior works as expected.
 * The system is ready for the next change.
 * The programmer & their colleagues feel confident in the above points.
 
+**STEPS:**
 1. Write a list of the test scenarios you want to cover.
 2. Turn exactly one item on the list into an actual, concrete, runnable test.
    - **3A** (Bill Wake):
