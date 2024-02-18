@@ -2,8 +2,9 @@ Test-Driven Development
 =======================
 
 
-[Canonical TDD](https://tidyfirst.substack.com/p/canon-tdd) (Kent Beck)
----------------
+<img src="https://avatars.githubusercontent.com/u/46154?v=4" width="32px"
+/> [Canonical TDD](https://tidyfirst.substack.com/p/canon-tdd) ([Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck))
+------------------
 
 **OBJECTIVES:**
 * Everything that used to work still works.
@@ -26,7 +27,8 @@ Test-Driven Development
 6. Until the list is empty, go back to #2.
 
 
-[Three Laws of TDD](http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U) (Uncle Bob )
+<a href="https://github.com/unclebob"><img src="https://avatars.githubusercontent.com/u/36901?v=4" width="32px"
+/></a> [Three Laws of TDD](http://www.butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) [<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/qkblc5WRn-U) ([Uncle Bob](https://en.wikipedia.org/wiki/Robert_C._Martin))
 -------------------
 
 * _**Rule 1:**_ You are not allowed to write any production code unless it is to make a failing test pass.
@@ -34,7 +36,8 @@ Test-Driven Development
 * _**Rule 3:**_ You are not allowed to write anymore production code than is sufficient to pass the one failing unit test.
 
 
-[Development Cycle](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle) (Wikipedia)
+<img src="https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png" width="32px"
+/> [Development Cycle](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle) (Wikipedia)
 -------------------
 
 01. **Add a small / incremental test** for a new feature by discovering specifications from [user stories](https://en.wikipedia.org/wiki/User_story) / [use cases](https://en.wikipedia.org/wiki/Use_case) / [requirements](https://en.wikipedia.org/wiki/Requirement).
@@ -53,7 +56,8 @@ Test-Driven Development
 _*Commit often and undo / revert new code which fails any tests, rather than debugging excessively._
 
 
-[Clarify Goals](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/) (Jitterted)
+<a href="https://github.com/jitterted"><img src="https://avatars.githubusercontent.com/u/47930468?s=200&v=4" width="32px"
+/></a> [Clarify Goals](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/) ([Jitterted](https://github.com/jitterted))
 ---------------
 
 01. What should it do? (verbalize the goal; be clear & precise)
@@ -70,8 +74,8 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 12. (Passes!)
 
 
-More Info
----------
+💡 More Info
+------------
 
 * [Use Cases are Essential](https://dl.acm.org/doi/pdf/10.1145/3631182) - Ivar Jacobson & Alistair Cockburn
 * [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
@@ -81,8 +85,8 @@ More Info
 * [Glossary of Software Testing Terms](https://astqb.org/assets/documents/Glossary-of-Software-Testing-Terms-v3.pdf) - ISTQB
 
 
-Version Control
----------------
+:octocat: Version Control
+-------------------------
 
 [Git](https://git-scm.com/docs/gittutorial)
 
