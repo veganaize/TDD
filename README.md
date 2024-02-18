@@ -118,3 +118,8 @@ git remote add origin <original_upsteam_repo_server>
 git pull --rebase
 git push
 ```
+
+✏️ Personal Notes
+-----------------
+
+* When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
