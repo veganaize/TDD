@@ -57,7 +57,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 
 
 <a href="https://github.com/jitterted"><img src="https://avatars.githubusercontent.com/u/47930468?s=200&v=4" width="32px"
-/></a> [Clarify Goals](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/) ([Jitterted](https://github.com/jitterted))
+/></a> [Clarify Goals](https://ted.dev/articles/2021/03/05/clarifying-the-goal-of-behavior-change/) [<img src="https://user-images.githubusercontent.com/7102064/160022421-ed9425eb-6a6b-4849-a090-5a27542b60c3.png" width="16px" />](https://youtu.be/P8eRY2c8NFY) ([JitterTed](https://github.com/jitterted))
 ---------------
 
 01. What should it do? (verbalize the goal; be clear & precise)
