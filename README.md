@@ -137,3 +137,4 @@ git push
     - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle.
 
 * When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
+* The `main` function is not TDDed; The application's `main` code is replaced by the tests' `main` code, and vice versa; The application's `main` code is tested at the user interface level (top) of the [test pyramid](https://en.wikipedia.org/wiki/Test_automation#Testing_at_different_levels).
