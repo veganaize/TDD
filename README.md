@@ -124,7 +124,7 @@ git push
 -----------------
 
 * Constantly check/consider code against design principles:
-  - [KISS](https://en.wikipedia.org/wiki/KISS_principle): keep it short & simple; do the simplest thing that could possibly work.
+  - [KISS](https://en.wikipedia.org/wiki/KISS_principle): keep it short & simple; do the simplest thing that could possibly work, first.
   - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): don't repeat yourself (more than a very few times).
   - [POLA](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): principle of least astonishment.
   - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): you ain't gonna need it.
