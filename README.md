@@ -130,11 +130,11 @@ git push
   - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): you ain't gonna need it.
   - _"Never let perfect be the enemy of good enough." (for now)_
   - [SOLID](https://en.wikipedia.org/wiki/SOLID):
-    - [SRP](https://en.wikipedia.org/wiki/Single-responsibility_principle): single responsibility principle.
-    - [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): open-closed principle.
-    - [LSP](https://en.wikipedia.org/wiki/Liskov_substitution_principle): liskov substitution principle.
-    - [ISP](https://en.wikipedia.org/wiki/Interface_segregation_principle): interface segregation principle.
-    - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle.
+    - [SRP](https://en.wikipedia.org/wiki/Single-responsibility_principle): single responsibility principle; do one thing well.
+    - [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): open-closed principle; extend, don't modify.
+    - [LSP](https://en.wikipedia.org/wiki/Liskov_substitution_principle): liskov substitution principle; subtype like basetype.
+    - [ISP](https://en.wikipedia.org/wiki/Interface_segregation_principle): interface segregation principle; granular interfaces.
+    - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle; inject dependencies.
 
 * When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
 * The `main` function is not TDDed; The application's `main` code is replaced by the unit tests' `main` code, and vice versa; The application's `main` code is tested at the user interface level (top) of the [test pyramid](https://en.wikipedia.org/wiki/Test_automation#Testing_at_different_levels).
