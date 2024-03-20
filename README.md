@@ -129,6 +129,7 @@ git push
   - [POLA](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): principle of least astonishment.
   - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): you ain't gonna need it.
   - _"Never let perfect be the enemy of good enough." (for now)_
+  - _"As little as possible; As much as necessary."_
   - [SOLID](https://en.wikipedia.org/wiki/SOLID):
     - [SRP](https://en.wikipedia.org/wiki/Single-responsibility_principle): single responsibility principle; do one thing well.
     - [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): open-closed principle; extend, don't modify.
