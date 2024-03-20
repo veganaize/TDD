@@ -85,6 +85,13 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 * Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://wiki.python.org/moin/UsingAssertionsEffectively)
 * [Glossary of Software Testing Terms](https://astqb.org/assets/documents/Glossary-of-Software-Testing-Terms-v3.pdf) - ISTQB
 * Refactoring to Design Patterns: [preface](https://courses.cs.duke.edu/compsci308/spring24/readings/kerievsky_preface.pdf); [catalog](https://www.industriallogic.com/refactoring-to-patterns/catalog/)
+* Wikipedia
+  - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
+  - [Anti-Pattern](https://en.wikipedia.org/wiki/Anti-pattern)
+  - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
+  - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
+  - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+  - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
 
 
 :octocat: Version Control
@@ -120,6 +127,7 @@ git remote add origin <original_upsteam_repo_server>
 git pull --rebase
 git push
 ```
+
 
 ✏️ Personal Notes
 -----------------
