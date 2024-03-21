@@ -84,6 +84,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 * [Focus on Branch Logic](https://www.geepawhill.org/2019/02/18/pro-tip-tdd-focus-on-our-branching-logic/) - GeePaw
 * Assertions: [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html); [Python](https://wiki.python.org/moin/UsingAssertionsEffectively)
 * [Glossary of Software Testing Terms](https://astqb.org/assets/documents/Glossary-of-Software-Testing-Terms-v3.pdf) - ISTQB
+* [Cost of Poor Quality Software](http://web.archive.org/web/20200817233131id_/https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/The-Cost-of-Poor-Quality-Software-in-the-US-2018-Report.pdf) - CISQ
 * Refactoring to Design Patterns: [preface](https://courses.cs.duke.edu/compsci308/spring24/readings/kerievsky_preface.pdf); [catalog](https://www.industriallogic.com/refactoring-to-patterns/catalog/)
 * Wikipedia
   - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
