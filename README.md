@@ -98,7 +98,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 :octocat: Version Control
 -------------------------
 
-[Git](https://git-scm.com/docs/gittutorial)
+[Git](https://git-scm.com/docs/gittutorial); [Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
 
 ```
 git [command] -h  # Help in console, not browser, on Windows OS
