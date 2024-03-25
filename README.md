@@ -101,6 +101,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 [Git](https://git-scm.com/docs/gittutorial)
 
 ```
+git [command] -h  # Help in console, not browser, on Windows OS
 git init .
 git add .
 git status
