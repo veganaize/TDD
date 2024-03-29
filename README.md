@@ -99,7 +99,8 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 -------------------------
 
 [Git](https://git-scm.com/docs/gittutorial); [Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)  
-[Gitflow - Vincent Driessen's branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+[Github Flow](https://docs.github.com/en/get-started/using-github/github-flow); [Gitflow - Vincent Driessen's branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
+[Github Markdown](https://docs.github.com/en/get-started/writing-on-github); [Github Task Lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
 ```
 git [command] -h  # Help in console, not browser, on Windows OS
 git init .
