@@ -79,6 +79,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/) - Eric Lippert
 * [Structure and Interpretation of Test Cases](https://youtu.be/MWsk1h8pv2Q) - Kevlin Henney (youtube video)
+* [Unit Testing Best Practices](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices) - Microsoft
 * [Use Cases are Essential](https://dl.acm.org/doi/pdf/10.1145/3631182) - Ivar Jacobson & Alistair Cockburn
 * [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html) - Martin Fowler
 * [XP Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
