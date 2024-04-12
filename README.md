@@ -92,6 +92,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
   - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
   - [Anti-Pattern](https://en.wikipedia.org/wiki/Anti-pattern)
   - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
+  - [Fuzz Testing](https://en.wikipedia.org/wiki/Fuzzing)
   - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
   - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
   - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
