@@ -111,25 +111,25 @@ git add .
 git status
 git commit -m "Commit message"
 git log [--oneline] [--author=name]
-git tag 1.0.0 <commit-id-from-log>
+git tag 1.0.0 &lt;commit-id-from-log>
 
-git restore --staged <file>
-git restore <file>
+git restore --staged &lt;file>
+git restore &lt;file>
 git reset --hard
 
 git stash
 git stash pop
 
-git checkout -b <new_feature_branch_name>
+git checkout -b &lt;new_feature_branch_name>
 git diff [--cached]
-git checkout <master | main>
+git checkout &lt;master | main>
 git branch
-git merge --squash <new_feature_branch_name>
-git branch --delete <new_feature_branch_name>
+git merge --squash &lt;new_feature_branch_name>
+git branch --delete &lt;new_feature_branch_name>
 
 git clone [--no-single-branch] git@github.com:veganaiZe/TDD.git
 git clone [--depth=50] https://github.com/veganaiZe/TDD.git
-git <a href="https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes">remote</a> add origin <original_upsteam_repo_server>
+git <a href="https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes">remote</a> add origin &lt;original_upsteam_repo_server>
 git pull --rebase
 git push
 </pre>
