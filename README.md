@@ -104,7 +104,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 [Git](https://git-scm.com/docs/gittutorial); [Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work); [Better Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)  
 [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow); [Gitflow - Vincent Driessen's branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github); [Stackoverflow Markdown](https://stackoverflow.com/editing-help); [Github Task Lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
-```
+<pre>
 git [command] -h  # Help in console, not browser, on Windows OS
 git init .
 git add .
@@ -129,10 +129,10 @@ git branch --delete <new_feature_branch_name>
 
 git clone [--no-single-branch] git@github.com:veganaiZe/TDD.git
 git clone [--depth=50] https://github.com/veganaiZe/TDD.git
-git remote add origin <original_upsteam_repo_server>
+git <a href="https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes">remote</a> add origin <original_upsteam_repo_server>
 git pull --rebase
 git push
-```
+</pre>
 
 
 ✏️ Personal Notes
