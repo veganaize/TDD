@@ -65,7 +65,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 03. Write test for code yet-to-be.
 04. (Fails to compile.)
 05. Write least amount of code to compile.
-06. Predict how test will fail. (hypothesize)
+06. Predict how test will fail. (precisely)
 07. Run test.
 08. (Fails in predicted way.)
 09. Write least amount of code to pass.
