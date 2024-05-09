@@ -79,6 +79,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/) - Eric Lippert
 * [Spike Solutions](https://www.jamesshore.com/v2/books/aoad1/spike_solutions) - James Shore
+  - [Spikes in Scrum: The Exception, not the Rule](https://web.archive.org/web/20180712125321id_/https://scrumalliance.org/learn-about-scrum/agile-atlas/agile-atlas-commentaries/may-2014/spikes-in-scrum-the-exception,-not-the-rule) - Scrum Alliance
 * [Structure and Interpretation of Test Cases](https://youtu.be/MWsk1h8pv2Q) - Kevlin Henney (youtube video)
 * [Unit Testing Best Practices](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices) - Microsoft
 * [Use Cases are Essential](https://dl.acm.org/doi/pdf/10.1145/3631182) - Ivar Jacobson & Alistair Cockburn
@@ -99,6 +100,10 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
   - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
   - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
   - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
+* [Scrum Guide](https://scrumguides.org/) (official)
+  - [Changed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/words-changed-scrum-guide-2020-update)
+  - [Removed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/scrum-guide-2020-update-what-has-been-removed)
+  - [2017 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) (old)
 
 
 :octocat: Version Control
