@@ -92,12 +92,13 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 * Wikipedia
   - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
   - [Anti-Pattern](https://en.wikipedia.org/wiki/Anti-pattern)
+  - [Extreme Programminng](https://en.wikipedia.org/wiki/Extreme_programming)
+    - [extremeprogramming.org](http://www.extremeprogramming.org/) <img src="http://www.extremeprogramming.org/images/xplinksm.gif" width="29px" />
   - [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing)
   - [Fuzz Testing](https://en.wikipedia.org/wiki/Fuzzing)
   - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
   - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
   - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
-* [Extreme Programming](http://www.extremeprogramming.org/) <img src="http://www.extremeprogramming.org/images/xplinksm.gif" width="29px" />
 
 
 :octocat: Version Control
