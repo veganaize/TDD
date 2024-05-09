@@ -97,6 +97,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
   - [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
   - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
   - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
+* [Extreme Programming](http://www.extremeprogramming.org/)
 
 
 :octocat: Version Control
