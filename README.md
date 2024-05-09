@@ -113,7 +113,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow); [Gitflow - Vincent Driessen's branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github); [Stackoverflow Markdown](https://stackoverflow.com/editing-help); [Github Task Lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
 <pre>
-git [command] -h  # Help in console, not browser, on Windows OS
+git [command] -h  # Help in console;  `--help` opens in browser on Windows
 git init .
 git add .
 git status
