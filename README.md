@@ -148,18 +148,18 @@ git push
 -----------------
 
 * Constantly check/consider code against design principles:
-  - [KISS](https://en.wikipedia.org/wiki/KISS_principle): keep it short & simple; do the simplest thing that could possibly work, first.
-  - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): don't repeat yourself (more than a very few times).
-  - [POLA](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): principle of least astonishment --measured by f-words per minute.
-  - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): you ain't gonna need it.
-  - _"Never let perfect be the enemy of good enough." (for now)_
-  - _"As little as possible; As much as necessary."_
+  - [KISS](https://en.wikipedia.org/wiki/KISS_principle): ***keep it short & simple***; do the simplest thing that could possibly work, first.
+  - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): ***don't repeat yourself*** (more than a very few times).
+  - [POLA](https://en.wikipedia.org/wiki/Principle_of_least_astonishment): ***principle of least astonishment*** --measured by f-words per minute.
+  - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it): ***you ain't gonna need it***.
+  - ***"Never let perfect be the enemy of good enough." (for now)***
+  - ***"As little as possible; As much as necessary."***
   - [SOLID](https://en.wikipedia.org/wiki/SOLID):
-    - [SRP](https://en.wikipedia.org/wiki/Single-responsibility_principle): single responsibility principle; do one thing well.
-    - [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): open-closed principle; extend, don't modify.
-    - [LSP](https://en.wikipedia.org/wiki/Liskov_substitution_principle): liskov substitution principle; subtype like basetype.
-    - [ISP](https://en.wikipedia.org/wiki/Interface_segregation_principle): interface segregation principle; granular interfaces.
-    - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle; inject dependencies.
+    - [SRP](https://en.wikipedia.org/wiki/Single-responsibility_principle): single responsibility principle; ***do one thing well.***
+    - [OCP](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle): open-closed principle; ***extend, don't modify.***
+    - [LSP](https://en.wikipedia.org/wiki/Liskov_substitution_principle): liskov substitution principle; ***subtype like basetype.***
+    - [ISP](https://en.wikipedia.org/wiki/Interface_segregation_principle): interface segregation principle; ***granular interfaces.***
+    - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle; ***inject dependencies.***
 
 * When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
 * The `main` function is not TDDed; The application's `main` code is replaced by the unit tests' `main` code, and vice versa; The application's `main` code is tested at the user interface level (top) of the [test pyramid](https://en.wikipedia.org/wiki/Test_automation#Testing_at_different_levels).
