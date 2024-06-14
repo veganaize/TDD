@@ -78,6 +78,8 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 ------------
 
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/) - Eric Lippert
+* [What's in a Story?](https://dannorth.net/whats-in-a-story/) - Dan North
+* [Introducing BDD](https://dannorth.net/introducing-bdd/) - Dan North
 * [Spike Solutions](https://www.jamesshore.com/v2/books/aoad1/spike_solutions) - James Shore
   - [Spikes in Scrum: The Exception, not the Rule](https://web.archive.org/web/20180712125321id_/https://scrumalliance.org/learn-about-scrum/agile-atlas/agile-atlas-commentaries/may-2014/spikes-in-scrum-the-exception,-not-the-rule) - Scrum Alliance
 * [Structure and Interpretation of Test Cases](https://youtu.be/MWsk1h8pv2Q) - Kevlin Henney (youtube video)
