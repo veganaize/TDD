@@ -119,6 +119,7 @@ git [command] -h      # Help in console
 git &lt;command> --help  # As man page (Linux); in browser (Windows)
 git init .
 git add .
+git add -u  # stage tracked (modified & deleted) files only
 git status
 git commit -m "Commit message"
 git log [--oneline] [--author=name]
