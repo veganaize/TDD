@@ -77,6 +77,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 💡 More Info
 ------------
 
+* [Dispelling Myths About TDD](https://www.agileinstitute.com/articles/dispelling-myths-about-test-driven-development) - Agile Institute
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/) - Eric Lippert
 * [What's in a Story?](https://dannorth.net/whats-in-a-story/) - Dan North
 * [Introducing BDD](https://dannorth.net/introducing-bdd/) - Dan North
