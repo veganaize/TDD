@@ -168,11 +168,14 @@ git push
 * When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
 * The `main` function is not TDDed; The application's `main` code is replaced by the unit tests' `main` code, and vice versa; The application's `main` code is tested at the user interface level (top) of the [test pyramid](https://en.wikipedia.org/wiki/Test_automation#Testing_at_different_levels).
 
-### My Steps
+<img src="https://github.com/user-attachments/assets/20044412-0611-4bb9-ad6f-8c50435753e3" width="32px"
+/> veganaiZe's TDD Steps
+-----------------------
+
 1. Determine next desired method/interface from the perspective of the application code.
-2. Write just enough of a test for desired / missing interface (in "act" section) and watch that test fail against the application code.
-3. Write just enough application code to make the test pass; returning correct type (but incorrect value); ensure test passes.
-4. Write just enough test code (in "assert" section) to make a failing runtime assertion against the application code.
-5. Write just enough (hard coded) application code to make the failing assertion pass; returning correct value.
-6. Refactor to remove duplication.
-7. Commit small & focused change into code repository.
+2. Write just enough of a test for desired / missing interface (in "Act" section) and observe that test fails against the application code.
+3. Write just enough application code and observe the test passes, returning the correct type (but incorrect value).
+4. Write just enough test code (in "Assert" section) to observe a failing runtime assertion against the application code.
+5. Write just enough application code to observe the runtime assertion passes and returns the correct value (hard-coded first pass).
+6. Refactor to remove (hard-coded) duplication.
+7. Commit the small & focused change into the (git) code repository.
