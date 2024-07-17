@@ -130,7 +130,7 @@ git restore --staged &lt;file>
 git restore &lt;file>
 git reset --hard
 
-git stash [-u | --include-untracked]
+git <a href="https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning">stash</a> [-u | --include-untracked]
 git stash list
 git stash branch &lt;new_branchname>
 git stash pop
