@@ -165,7 +165,8 @@ git push
     - [ISP](https://en.wikipedia.org/wiki/Interface_segregation_principle): interface segregation principle; ***granular interfaces.***
     - [DIP](https://en.wikipedia.org/wiki/Dependency_inversion_principle): dependency inversion principle; ***inject dependencies.***
 
-* When on the fence over whether or not to pre-process data, or process it at runtime, write/tdd the common functionality before deciding.
+* When on the fence over whether or not to put some code into its own method: do it, especially if it has any (branch) logic in it.  And TDD it into existence!
+* When on the fence over whether or not to pre-process data, or process it at runtime, spike/tdd the common functionality before deciding.
 * The `main` function is not TDDed; The application's `main` code is replaced by the unit tests' `main` code, and vice versa; The application's `main` code is tested at the user interface level (top) of the [test pyramid](https://en.wikipedia.org/wiki/Test_automation#Testing_at_different_levels).
 
 <img src="https://github.com/user-attachments/assets/20044412-0611-4bb9-ad6f-8c50435753e3" width="32px"
