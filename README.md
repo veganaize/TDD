@@ -130,7 +130,9 @@ git restore --staged &lt;file>
 git restore &lt;file>
 git reset --hard
 
-git stash
+git stash [-u | --include-untracked]
+git stash list
+git stash branch &lt;new_branchname>
 git stash pop
 
 git checkout -b &lt;new_feature_branch_name>
