@@ -138,9 +138,9 @@ git stash pop
 git checkout -b &lt;new_feature_branch_name>
 git diff [--cached]
 git checkout &lt;master | main>
-git branch
+git branch  # List branches; Highlight current
 git merge --squash &lt;new_feature_branch_name>
-git branch --delete &lt;new_feature_branch_name>
+git branch [-d | --delete | -D] &lt;new_feature_branch_name>
 
 git clone [--no-single-branch] git@github.com:veganaiZe/TDD.git
 git clone [--depth=50] https://github.com/veganaiZe/TDD.git
