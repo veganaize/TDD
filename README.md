@@ -175,8 +175,8 @@ git push
 1. Determine the next desired method/interface: from the perspective of the application's code.
 2. Create a new development branch, and switch to it: `git checkout -b new-branch-name`
 3. Write just enough test code, for a desired interface (in "Act" section), to observe the test failing against the application's missing interface code.
-4. Write just enough application code, implmenting an empty method (returning the correct type), and observe the test passing against an _incorrect_ return value.
-5. Write just enough test code, including an error detail message (in "Assert" section), to observe runtime assertion failing as expected against the application code.
+4. Write just enough application code, implmenting an empty method (returning the correct type), to observe the test passing against an _incorrect_ return value.
+5. Write just enough test code, including an error detail message (in "Assert" section), to observe a runtime assertion failing as expected against the application code.
 6. Write just enough application code, to observe the runtime assertion passing, by correcting the return value; first iteration being hard-coded.
 7. Refactor to remove (hard-coded) duplication.
 8. Commit the small & focused change into the upstream code repository:
