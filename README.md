@@ -172,19 +172,20 @@ git push
 /> veganaiZe's TDD Steps
 ------------------------
 
-1. Determine the next desired method/interface: from the perspective of the application code.
-2. Create and switch to a new development branch: `git checkout -b new-branch-name`
-3. Write just enough test code, for a desired / missing interface (in "Act" section), and observe the test failing against the application code.
-4. Write just enough application code to observe the test passing, returning an incorrect value (but correct type).
+1. Determine the next desired method/interface: from the perspective of the application's code.
+2. Create a new development branch, and switch to it: `git checkout -b new-branch-name`
+3. Write just enough test code, for a desired / missing interface, (in "Act" section) to observe the test failing against the application's code.
+4. Write just enough application code to observe the test passing, by returning the correct type but incorrect value.
 5. Write just enough test code, including an error detail message, (in "Assert" section) to observe runtime assertion failing, as expected, against the application code.
-6. Write just enough application code to observe the runtime assertion passing, returning the correct value; first iteration being hard-coded.
+6. Write just enough application code to observe the runtime assertion passing, by returning the correct value; first iteration being hard-coded.
 7. Refactor to remove (hard-coded) duplication.
 8. Commit the small & focused change into the (git) code repository:
-
-       git checkout master
-       git merge --squash new-branch-name
-       git commit -m "Commit message ..."
-       git branch -D new-branch-name
+    ```
+    git checkout master
+    git merge --squash new-branch-name
+    git commit -m "Commit message ..."
+    git branch -D new-branch-name
+    ```
 
 ---
 
