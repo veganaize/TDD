@@ -179,7 +179,7 @@ git push
 5. Write just enough test code, including an error detail message, (in "Assert" section) to observe runtime assertion failing, as expected, against the application code.
 6. Write just enough application code to observe the runtime assertion passing, by returning the correct value; first iteration being hard-coded.
 7. Refactor to remove (hard-coded) duplication.
-8. Commit the small & focused change into the (git) code repository:
+8. Commit the small & focused change into the upstream code repository:
     ```
     git checkout master
     git merge --squash new-branch-name
