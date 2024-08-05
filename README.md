@@ -104,9 +104,10 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
   - [Side Effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
   - [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
 * [Scrum Guide](https://scrumguides.org/) (official)
+  - [Scrum Guide Revision History](https://scrumguides.org/revisions.html) (official)
   - [Changed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/words-changed-scrum-guide-2020-update)
   - [Removed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/scrum-guide-2020-update-what-has-been-removed)
-  - [2017 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) (old)
+  - [2017 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) (old; official)
 
 
 :octocat: Version Control
