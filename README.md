@@ -107,7 +107,8 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
   - [Scrum Guide Revision History](https://scrumguides.org/revisions.html) (official)
   - [Changed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/words-changed-scrum-guide-2020-update)
   - [Removed Words in Scrum Guide 2020](https://www.scrum.org/resources/blog/scrum-guide-2020-update-what-has-been-removed)
-  - [2017 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) (old; official)
+  - [2017 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf) (official) (old)
+  - [2016 Scrum Guide](https://scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf) (official) (old)
 
 
 :octocat: Version Control
