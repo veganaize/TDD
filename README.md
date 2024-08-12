@@ -74,7 +74,7 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 12. (Passes!)
 
 
-💡 More Info
+🌐 More Info
 ------------
 
 * [Dispelling Myths About TDD](https://www.agileinstitute.com/articles/dispelling-myths-about-test-driven-development) - Agile Institute
@@ -152,8 +152,8 @@ git push
 </pre>
 
 
-✏️ Personal Notes
------------------
+💡 Principles
+-------------
 
 * Constantly check/consider code against design principles:
   - [KISS](https://en.wikipedia.org/wiki/KISS_principle): ***keep it short & simple***; do the simplest thing that could possibly work, first.
@@ -181,7 +181,7 @@ git push
 5. Write just enough __*TEST CODE*__, including an error detail message (in "Assert" section), to observe a runtime __*ASSERTION FAILING*__ as expected against the application's incorrect return value.
 6. Write just enough __*APPLICATION CODE*__, to observe the runtime __*ASSERTION PASSING*__, by correcting the return value; first iteration being hard-coded.
 7. Refactor to remove (hard-coded) duplication.
-8. Commit the small & focused change into the upstream code repository:
+8. Commit the small & focused change into the upstream branch/repo:
     ```
     git checkout master
     git merge --squash new-branch-name
@@ -189,7 +189,9 @@ git push
     git branch -D new-branch-name
     ```
 
----
+
+✏️ Personal Notes
+-----------------
 
 * When on the fence over whether or not to put some code into its own method: do it, especially if it has any (branch) logic in it.  And TDD it into existence!
 * When on the fence over whether or not to pre-process data, or process it at runtime, spike/tdd the common functionality before deciding.
