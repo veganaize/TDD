@@ -95,6 +95,14 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 * [Glossary of Software Testing Terms](https://astqb.org/assets/documents/Glossary-of-Software-Testing-Terms-v3.pdf) - ISTQB
 * [Cost of Poor Quality Software](http://web.archive.org/web/20200817233131id_/https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/The-Cost-of-Poor-Quality-Software-in-the-US-2018-Report.pdf) - CISQ
 * Refactoring to Design Patterns: [preface](https://courses.cs.duke.edu/compsci308/spring24/readings/kerievsky_preface.pdf); [catalog](https://www.industriallogic.com/refactoring-to-patterns/catalog/)
+* Diagrams
+  - [UML Quick Reference Card](http://tnerual.eriogerg.free.fr/umlqrc.pdf) - 2001
+  - [Allen Holub’s UML Quick Reference](https://holub.com/uml/) - 2017 _([1998 version](http://cheat-sheets.org/saved-copy/UML%20Reference%20Card.pdf))_
+  - [UML Class and Sequence Diagram Cheatsheet](https://loufranco.com/wp-content/uploads/2023/06/uml-cheatsheat-class-sequence-letter.pdf) - 2023
+  - [UML v2.5.1 Spec](https://www.omg.org/spec/UML/2.5.1/PDF) - 2017
+  - [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) - wikipedia
+  - [Class Diagram](https://en.wikipedia.org/wiki/Class_diagram) - wikipedia
+  - [C4](https://c4model.com/)
 * Wikipedia
   - [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
   - [Anti-Pattern](https://en.wikipedia.org/wiki/Anti-pattern)
