@@ -95,6 +95,8 @@ _*Commit often and undo / revert new code which fails any tests, rather than deb
 * [Glossary of Software Testing Terms](https://astqb.org/assets/documents/Glossary-of-Software-Testing-Terms-v3.pdf) - ISTQB
 * [Cost of Poor Quality Software](http://web.archive.org/web/20200817233131id_/https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/The-Cost-of-Poor-Quality-Software-in-the-US-2018-Report.pdf) - CISQ
 * Refactoring to Design Patterns: [preface](https://courses.cs.duke.edu/compsci308/spring24/readings/kerievsky_preface.pdf); [catalog](https://www.industriallogic.com/refactoring-to-patterns/catalog/)
+* [Code Katas](https://sammancoaching.org/kata_descriptions/) - Samman Coaching
+* [Ensemble Programming Guidebook](https://ensembleprogramming.xyz/) - Maaret Pyhäjärvi
 * Diagrams
   - [UML Quick Reference Card](http://tnerual.eriogerg.free.fr/umlqrc.pdf) - 2001
   - [Allen Holub’s UML Quick Reference](https://holub.com/uml/) - 2017 _([1998 version](http://cheat-sheets.org/saved-copy/UML%20Reference%20Card.pdf))_
