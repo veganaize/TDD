@@ -144,10 +144,15 @@ git restore --staged &lt;file>
 git restore &lt;file>
 git reset --hard
 
-git <a href="https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning">stash</a> [-u | --include-untracked]
+git <a href="https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning">stash</a> [-u | --include-untracked] [-m "Stash message"]
 git stash list
 git stash branch &lt;new_branchname>
 git stash pop
+
+git worktree add ../hotfix [new-branch]
+cd ../hotfix
+git worktree list
+git worktree remove &lt;path> [--force]  # Doesn't delete worktree branch
 
 git checkout -b &lt;new_feature_branch_name>
 git diff [--cached]
